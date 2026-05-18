@@ -1,3 +1,6 @@
 [submodule "underactuated/book/App-c-optimization/microOSQP/microOSQP"]
 	path = underactuated/book/App-c-optimization/microOSQP/microOSQP
 	url = https://github.com/DLinC3/microOSQP.git
+[submodule "underactuated/book/App-c-optimization/microPCIPMQP/microPCIPMQP"]
+	path = underactuated/book/App-c-optimization/microPCIPMQP/microPCIPMQP
+	url = https://github.com/DLinC3/microPCIPMQP.git
